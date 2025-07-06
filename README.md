@@ -24,5 +24,7 @@ Random Forest achieved the best performance with R² score of 0.729.
 Financial factors (such as Revenue and Profit Margin) and regional characteristics significantly influence ESG performance.
 
 ## Notes
-This project was developed for academic and learning purposes
-presentations: https://drive.google.com/file/d/1jKSJs1bjaFj_W2AFGJh6Km4dHyJ-_8Ze/view?usp=drive_link
+This project was developed for academic and learning purposes,
+
+## Presentations 
+https://drive.google.com/file/d/1jKSJs1bjaFj_W2AFGJh6Km4dHyJ-_8Ze/view?usp=drive_link
