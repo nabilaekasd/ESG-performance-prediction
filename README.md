@@ -25,3 +25,4 @@ Financial factors (such as Revenue and Profit Margin) and regional characteristi
 
 ## Notes
 This project was developed for academic and learning purposes
+presentations: https://drive.google.com/file/d/1jKSJs1bjaFj_W2AFGJh6Km4dHyJ-_8Ze/view?usp=drive_link
