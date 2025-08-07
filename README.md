@@ -4,7 +4,7 @@ This project aims to predict the ESG (Environmental, Social, and Governance) per
 ## Dataset
 Dataset used:
 - Company ESG Financial Dataset (sourced from Kaggle)
-- link: [Kaggle - ESG and Financial Performance Dataset] (https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset)
+- link: [Kaggle - ESG and Financial Performance Dataset](https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset)
 
 ## Libraries
 - Pandas
